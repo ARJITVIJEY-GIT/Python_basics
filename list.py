@@ -1,3 +1,4 @@
+#list are mutable(can change.,add,remove)
 nums = [2,8,5,9]
 Items = ['avocado','apple','orange','grape']
 print(nums + Items)
